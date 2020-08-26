@@ -22,3 +22,6 @@
 
 部分视频封面：
 ![Image text](https://github.com/wenziqiang/b-0-/blob/master/img_folder/%E5%B0%81%E9%9D%A2%E7%BB%93%E6%9E%9C.PNG)
+(有些色气）
+
+环境：python3.7，requests, bs4, flask, aiohttp, selenium
