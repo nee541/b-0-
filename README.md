@@ -18,6 +18,7 @@
 
 还是有些成果
 视频BV爬取结果：
+![Image text](https://github.com/wenziqiang/b-0-/blob/master/img_folder/BV%E7%BB%93%E6%9E%9C.PNG)
 
 部分视频封面：
 
